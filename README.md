@@ -1,2 +1,2 @@
 # Assets
-Thanks for the cdn!
+Mediocre cdn
